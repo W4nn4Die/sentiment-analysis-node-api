@@ -71,10 +71,3 @@ http POST localhost:3000/analyze text="I am happy because I saw a rainbow and so
 ```
 
 <img src="images/6.png"/>
-
-<style>
-img {
-  -webkit-filter: drop-shadow(5px 5px 5px #222 );
-  filter: drop-shadow(5px 5px 5px #222);
-}
-</style>
