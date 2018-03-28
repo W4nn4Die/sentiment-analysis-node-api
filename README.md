@@ -1,6 +1,6 @@
 # 🌈 sentiment-analysis-node-api
 
-![apm](https://img.shields.io/apm/l/vim-mode.svg)     ![npm](https://img.shields.io/npm/v/npm.svg)
+[![apm](https://img.shields.io/apm/l/vim-mode.svg)]()     [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/)
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
