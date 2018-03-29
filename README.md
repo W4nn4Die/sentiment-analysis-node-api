@@ -4,7 +4,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://nodejs.org/en/)
 
-A simple REST API built using nodejs which is used to perform sentiment analysis.
+A simple REST API built using node.js which is used to perform sentiment analysis.
 
 ```sh
 npm start
